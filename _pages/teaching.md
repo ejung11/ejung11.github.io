@@ -14,7 +14,8 @@ author_profile: true
 * Microeconomics 
 
 ## Instructional Publications
-* Eremionkhale, Amy, Mya Eveland, Shelby Frost, Todd Swarthout, Reginald Hebert, Eye Eoun Jung, and Ga Hye Jeon. "Interactive Tools for Principles of Microeconomics." (2022).
+* Eremionkhale, Amy; Eveland, Mya; Frost, Shelby; Swarthout, Todd; Hebert, Reginald; Jung, Eye Eoun; and Jeon, Ga Hye, "Interactive Tools for Principles of Microeconomics" (2022). Business Administration, Management, and Economics Ancillary Materials. 8.
+https://oer.galileo.usg.edu/business-ancillary/8
 
 ## Teaching Certification
 * Mastering Online Teaching
