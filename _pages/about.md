@@ -9,9 +9,9 @@ redirect_from:
 
 I am a PhD candidate in Economics at Georgia State University.
 
-My area of expertise is **behavioral economics**, **experimental economics**, and **health economics**.
+My areas of expertise are **behavioral & experimental economics**, **health economics**, and **economic education**.
 
-I am particularly interested in studying individual decision-making and collective actions using experimental methods. Currently, I am studying partial output-sharing in a common-pool resource context, and evaluating the effectiveness of comprehensive smoke-free policies in South Korea using synthetic control methods. I am also involved in randomized control trials (RCT) in testing the effectiveness of utilizing the chatbot in academic courses such as Principles in Microeconomics, and examining the effectiveness of the nudge emails to encourage students to change their major to economics.
+I am particularly interested in studying individual decision-making and collective actions using experimental methods. Currently, I am studying partial output-sharing in a common-pool resource context, and evaluating the impact of comprehensive smoke-free policies and outdoor smoking bans on smoking in South Korea using synthetic control methods. I am also involved in randomized control trials (RCT) in testing the effectiveness of utilizing the chatbot in academic courses such as Principles in Microeconomics, and examining the effectiveness of the nudge emails to encourage students to change their major to economics.
 
 You can find my CV [here](https://ejung11.github.io/files/CV_EyeEoun_Jung_2024.pdf).
 
