@@ -143,7 +143,7 @@
     .page__lead,
     .btn {
       color: #fff;
-      text-shadow: 1px 1px 4px rgba(#000, 0.5);
+      text-shadow: 3px 3px 4px rgba(#000, 0.8);
     }
 
     .page__lead {
@@ -174,11 +174,11 @@
   padding: 2px 5px;
   color: #fff;
   font-family: $caption-font-family;
-  font-size: $type-size-7;
+  font-size: 0.6em;
   background: #000;
   text-align: right;
   z-index: 5;
-  opacity: 0.5;
+  opacity: 0.4;
   border-radius: $border-radius 0 $border-radius 0;
 
   @include breakpoint($large) {
