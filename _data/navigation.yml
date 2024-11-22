@@ -6,9 +6,6 @@
 
 main:
 
-    # - title: "Home"
-    # url: /index.html
-
   - title: "Research"
     url: /research/
 
