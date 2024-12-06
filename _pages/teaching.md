@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Instructor
-* Principles of Microeconomics (Fall 2023, Spring 2024, Fall 2024)
+* Principles of Microeconomics (Fall 2023, Spring 2024, Fall 2024) [Syllabus](https://ejung11.github.io/files/ECON_2106_Syllabus.pdf)
 
 ## Teaching Assistant
 * Principles of Microeconomics 
