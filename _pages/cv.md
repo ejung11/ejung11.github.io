@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can find my full CV [here](https://ejung11.github.io/files/CV_EyeEoun_Jung_2024.pdf).
+You can find my full CV [here](https://ejung11.github.io/files/CV_EyeEoun_Jung_2025.pdf).
 
 
 
