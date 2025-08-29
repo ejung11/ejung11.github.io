@@ -7,12 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Economics at Georgia State University.
+I am an applied microeconomist and a Visiting Assistant Professor in the Economics Department at Siena University.
 
 My research interests are **behavioral & experimental economics**, **health economics**, and **economic education**.
 
-I will be joining the Economics Department at Siena University as a Visiting Assistant Professor in Fall 2025.
+I received a Ph.D. in Economics from the Andrew Young School of Policy Studies at Georgia State University in 2025.
+
 
 My **CV** is available [here](https://ejung11.github.io/files/CV_EyeEoun_Jung_2025.pdf).
 
-You can contact me at *ejung11@gsu.edu*
+You can contact me at *ejung@siena.edu*
