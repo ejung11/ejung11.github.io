@@ -14,6 +14,6 @@ My research interests are **behavioral & experimental economics**, **health econ
 I received a Ph.D. in Economics from the Andrew Young School of Policy Studies at Georgia State University in 2025.
 
 
-My **CV** is available [here](https://ejung11.github.io/files/CV_EyeEoun_Jung_2025.pdf).
+My **CV** is available [here](https://ejung11.github.io/files/CV_EyeEoun_Jung_2026.pdf).
 
 You can contact me at *ejung@siena.edu*
